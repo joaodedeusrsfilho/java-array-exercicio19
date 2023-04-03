@@ -1,1 +1,4 @@
-# java-array-exercicio19
+Ler as duas notas bimestrais para um conjunto de 10 alunos. Armazenar as notas informadas em dois vetores "Nota1" e "Nota2" do tipo real. Escreva um programa que calcule a média aritmética simples das notas informadas armazenando o resultado em um vetor "Result" de mesmo tipo e tamanho. Ao mostrar os resultados exibir a situação de cada aluno. Se a média calculada for superior ou igual a 7 o aluno estará "Aprovado", caso contrário, a situação do aluno será "reprovado".
+
+#### Meus Contatos
+# <a href = "mailto:joaodedeusrsfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/joaodedeusrsfilho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
